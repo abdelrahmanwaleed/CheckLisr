@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": false,
+      "item": "3aish we 7alwa"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "Moz bel Laban"
+    },
+    {
+      "id": 5,
+      "checked": false,
+      "item": "3enab"
+    },
+    {
+      "id": 6,
+      "checked": true,
+      "item": "3asl we t7eena"
+    }
+  ]
+}
