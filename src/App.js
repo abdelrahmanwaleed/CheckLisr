@@ -7,11 +7,7 @@ import { useState, useEffect } from "react";
 import apiReq from "./apiReq";
 
 function App() {
-<<<<<<< HEAD
-  const API_URL = "http://192.168.1.4:3000/items/";
-=======
   const API_URL = "http://localhost:3500/items";
->>>>>>> 9798d15 (second update)
 
   const [items, setItems] = useState([]);
   const [newItem, setNewItem] = useState("");
