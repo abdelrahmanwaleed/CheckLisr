@@ -17,8 +17,18 @@
     },
     {
       "id": 6,
+<<<<<<< HEAD
       "checked": true,
       "item": "3asl we t7eena"
+=======
+      "checked": false,
+      "item": "3asl we t7eena"
+    },
+    {
+      "id": 7,
+      "checked": false,
+      "item": "gebna"
+>>>>>>> 9798d15 (second update)
     }
   ]
 }
